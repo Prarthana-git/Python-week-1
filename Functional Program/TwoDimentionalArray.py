@@ -14,7 +14,7 @@ def PrintArray(R,C):
             a.append(input())
         array.append(a)
      
-  
+  #print the array
     for i in range(R):
         for j in range(C):
             print(array[i][j], end = " ")

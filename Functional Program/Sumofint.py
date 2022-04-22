@@ -1,7 +1,7 @@
 #Author: Prarthana Chaudhari
 #Date: 21/04/2022
 #Description: A program with cubic running time. 
-# Read in N integers and counts the   number of triples that sum to exactly 0
+# Read in N integers and counts the number of triples that sum to exactly 0
 
 
 def sumofint(arr, n):
